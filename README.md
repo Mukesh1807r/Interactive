@@ -53,11 +53,6 @@ Publish the website in the given URL.
             margin: 0;
             padding: 0;
         }
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
         body{
             background-image: linear-gradient(to right,rgb(159, 154, 154),rgb(88, 87, 87),rgb(136, 131, 131));
             }
@@ -169,7 +164,7 @@ Publish the website in the given URL.
         <span class="tt">I</span>mage <span class="tt">G</span>allery
     </h1>
     <h1>
-         <span class="tt">S</span>am <span class="tt">W</span>orld
+        <span class="tt">S</span>am <span class="tt">W</span>orld
     </h1>
     <div class="container">
 
